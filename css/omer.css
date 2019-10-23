@@ -5,6 +5,9 @@ body{
 	line-height: 30px;
 }
 
+
+/* Header style*/
+
 header{
 	background-color: #157DCA;
 	text-align: center;
@@ -27,6 +30,13 @@ header img{
 	border: 20px solid white;
 }
 
+h2{
+	font-size: 35px;
+	color: red;
+	font-size: 50px;
+}
+
+/* Main Style */
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -41,12 +51,12 @@ main img{
 
 }
 
-h2{
-	font-size: 35px;
-	color: red;
-	font-size: 50px;
+main p{
+	font-size: 25px;
+
 }
 
+/* Footer style*/
 footer{
 	background-color: #157DCA;
 	text-align: center;
@@ -73,8 +83,4 @@ a:hover{
 	background-color: #483a94;
 }
 
-main p{
-	font-size: 25px;
-
-}
 
