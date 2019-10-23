@@ -1,3 +1,80 @@
 body{
-	background-color: red;
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
 }
+
+header{
+	background-color: #157DCA;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+		font-family: 'Big Shoulders Text', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 175px;
+	width: 500px;
+	border: 20px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px;
+}
+
+main img{
+	width: 400px;
+	border-radius: 175px;
+	border: 5px solid black;
+
+}
+
+h2{
+	font-size: 35px;
+	color: red;
+	font-size: 50px;
+}
+
+footer{
+	background-color: #157DCA;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+footer a{
+	color: white;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+a{
+	color: #e70c19;
+}
+a:hover{
+	color: white;
+	background-color: #483a94;
+}
+
+main p{
+	font-size: 25px;
+
+}
+
